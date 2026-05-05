@@ -9,18 +9,17 @@ if idade == 20:
 idade = 10
 
 
-
-
-
 """
 Crie uma app que receba 2 num e diga qual o maior 
+"""
+
 if idade > 18:
     print("adulto")
 elif idade > 12:
     print("teen")
 else:
     print("kid")
-"""
+
 
 
 n1 = 0 # int(input("Digite o primeiro numero: "))
