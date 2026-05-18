@@ -61,3 +61,18 @@ print("----")
 for elm in pessoa.items(): # mostra as keys
     print(elm)
 
+
+
+# Create the set
+# Print the set
+# Add "yellow"
+# Remove "green"
+# Print the number of items
+
+
+
+# Create the dictionary
+# Print the model
+# Add a color key
+# Remove the brand key
+# Print the dictionary
