@@ -33,8 +33,6 @@ public class Main {
 
         Scanner input = new Scanner(System.in);
 
-
-
         System.out.print("Nome: ");
         String nome2 = input.nextLine(); // ler txt
 
