@@ -12,11 +12,11 @@ public class Cliente extends Pessoa{
         System.out.println("Metodo Cliente");
     }
 
-
     @Override
     public void getInfos() {
         System.out.println("Cliente: ");
         super.getInfos();
     }
+
 
 }
