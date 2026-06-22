@@ -31,4 +31,8 @@ public class Utils {
     }
 
 
+    // Crie uma func recursiva para calcular um fatorial
+
+    //  --->  crie uma func q faça o calcula de um expoente de forma recursiva <---
+
 }
